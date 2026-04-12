@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419855581264",
+    "project_id": "price-tracker-flutter",
+    "storage_bucket": "price-tracker-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419855581264:android:f36b4d2993f0ee1f18d155",
+        "android_client_info": {
+          "package_name": "com.example.price_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInxWnREwo2c3FFCk6pp8hK1Lo9nIixrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
